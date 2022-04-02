@@ -20,7 +20,7 @@ let truths = [
     "Have you ever been caught cheating on a test?",
     "What is one secret you have never told anyone until now?",
     "What's the meanest thing you've ever said to someone else?",
-    "Have you ever faked sick to get out of a school?",
+    "Have you ever faked sick to get out of school?",
     "What's one movie you're embarrassed to admit you enjoy?",
 ]
 let dares = [
